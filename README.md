@@ -1,2 +1,13 @@
-# url_shortener
-url shortener application using nodejs
+# url shortener application:
+
+
+### check node and npm version :
+```
+node -v
+npm -v
+```
+
+### run application :
+```
+node start
+```
